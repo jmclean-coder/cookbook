@@ -42,3 +42,4 @@ Example:
 <!-- Insert Code Example -->
 Visual:
 ![Right Join Venn Diagram, right circle is table 1, left circle is table two, both circles are shaded](media/full_join.webp)
+
